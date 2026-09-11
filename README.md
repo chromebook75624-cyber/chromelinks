@@ -1,4 +1,4 @@
 - https://snowrider3d.surge.sh
-- google.com
-- bing.com
-- chatgpt.com
+- https://google.com
+- https://bing.com
+- https://chatgpt.com
