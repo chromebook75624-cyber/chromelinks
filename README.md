@@ -1,4 +1,1 @@
-snowrider3d.surge.sh
-google.com
-bing.com
-chatgpt.com
+
