@@ -3,7 +3,6 @@
 - https://bing.com
 - https://chatgpt.com
 - https://fentfall.shaptz.surge.sh
-- 
-movies
-- https://www.videezy.com
-- https://www.themoviedb.org
+  
+movies 
+coming soon
