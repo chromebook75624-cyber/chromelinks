@@ -4,5 +4,6 @@
 - https://chatgpt.com
 - https://fentfall.shaptz.surge.sh
 - 
-Videezy
+movies
 - https://www.videezy.com
+- https://www.themoviedb.org
