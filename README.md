@@ -11,5 +11,7 @@ personal work
 - https://classroom.google.com/c/ODY5MDU4NjExNDQz/m/ODc1NzY0OTM4NjM1/details
 
 - https://share.google/taZ7YEBjrJFDeXEaC
-- https://chrome://sync-internals/
+
+
+- https://cdn.jsdelivr.net/gh/rykcbaoolNEW/duck/duck.svg#/
 
