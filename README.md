@@ -6,8 +6,8 @@
 - https://share.google/NYz0gMoJkh4r36SKH
 - https://share.google/WhsLDjXjULGvAF0ki
 - https://cdn.jsdelivr.net/gh/rykcbaoolNEW/duck/duck.svg#/
- 
-
+- https://cdn.jsdelivr.net/gh/chromebook75624-cyber/duck/duckmath.svg#/
+  
 
 
 
